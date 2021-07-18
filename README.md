@@ -9,7 +9,7 @@
 ### Games
 
 #### Flappy Duck
-<a href="#"></a>
+<img src="https://github.com/joshuafarren/joshuafarren/blob/25cf7142978cf73494f85971d4d5a40171f5d634/icons/python/python-plain-wordmark.svg"></img>
 #### Yahtzee
 
 ### Utilites
