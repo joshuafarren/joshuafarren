@@ -17,7 +17,7 @@
 ### Utilites
 
 #### Backup GUI <img src="icons/python/python-plain-wordmark.svg" height=15px></img>
-<img src="media/backupprogram.jpg" width=150></img>
+<img src="media/backup.jpg" width=150></img>
 
 ### Webscraping
 
