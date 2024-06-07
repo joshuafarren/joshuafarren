@@ -38,5 +38,4 @@ Uses Python and Playwright to extract metadata from TikTok profiles and record r
 
 Reverse-engineered their internal API to pull 20k articles.
 Created to build a dataset of technical writings and their tags/classifications. 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://i.imgur.com/jDNFAaM.png](https://i.imgur.com/jDNFAaM.png)');]{x0000}$}
+
